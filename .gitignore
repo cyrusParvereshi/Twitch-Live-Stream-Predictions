@@ -1,0 +1,5 @@
+creds.ini
+*.ini
+*.swp
+*.zip
+*all-*

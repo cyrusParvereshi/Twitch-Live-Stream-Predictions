@@ -1,0 +1,5 @@
+[1] C. Zhang and J. Liu, "On crowdsourced interactive live streaming: a Twitch.tv-based measurement study," in *Proc. 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV '15)*, New York, NY, USA, 2015, pp. 55–60, doi: 10.1145/2736084.2736091.
+
+[2] GitHub, "GitHub Copilot Chat," GitHub, San Francisco, CA, 2024. [Online]. Available: https://github.com/features/preview/copilot-x. Accessed: June 9, 2025.
+
+[3] Twitch, "Get Streams," Twitch Developers, 2024. [Online]. Available: https://dev.twitch.tv/docs/api/reference/#get-streams. [Accessed: 9-Jun-2025].
